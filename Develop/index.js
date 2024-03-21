@@ -60,6 +60,16 @@ function writeToFile(fileName, data) {
   return  inquirer.prompt (questions).then(data=>{
         fs.writeFileSync("ReadMe.md", `
 #  ${data.title}
+
+## Table of Contents
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)
+    
 ## Description
         ${data.description}
 ## Installation
