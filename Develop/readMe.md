@@ -1,5 +1,5 @@
 
-#  test 2
+#  testing 1
 
 ## Table of Contents
     - [Description](#description)
@@ -11,17 +11,17 @@
     - [Questions](#questions)
     
 ## Description
-        test 2
+        this is a test to use the application
 ## Installation
-        test 2
+        use `npm i` to install all dependencies
 ## Usage
-        test 2
+        use the application to make a ReadMe
 ## License
-        MIT
+        GPL
 ## Contributing
-        test 2
+        they can contribute as much as possible
 ## Tests
-        test 2
+        there are many ways to test 
 ## Questions
-        if you have additonal questions, email me at  test 2. View more of my work on Github at https://github.com/test 2
+        if you have additonal questions, email me at  mikenavarrete email. View more of my work on Github at https://github.com/mikenavarrete
                 
