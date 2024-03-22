@@ -1,5 +1,5 @@
 
-#  testing 1
+#  sample 1
 
 ## Table of Contents
     - [Description](#description)
@@ -11,17 +11,18 @@
     - [Questions](#questions)
     
 ## Description
-        this is a test to use the application
+        this desction is a test
 ## Installation
-        use `npm i` to install all dependencies
+        use `npm i` to install dependecnies
 ## Usage
-        use the application to make a ReadMe
+        this app is used to generate a ReadMe file
 ## License
-        GPL
+        MIT
 ## Contributing
-        they can contribute as much as possible
+        they can contribute however possible
 ## Tests
-        there are many ways to test 
+        you can run project tests using jest
 ## Questions
-        if you have additonal questions, email me at  mikenavarrete email. View more of my work on Github at https://github.com/mikenavarrete
+        if you have additonal questions, email me at  mikenavarreteemail. View more of my work on Github at https://github.com/mikenavarrete
+                
                 
