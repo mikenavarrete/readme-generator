@@ -1,5 +1,5 @@
 
-#  sample 1
+#  Test for homework submission
 
 ## Table of Contents
 - [Description](#Description)
@@ -11,18 +11,17 @@
 - [Questions](#Questions)
     
 ## Description
-        this desction is a test
+        this is a test for the homework
 ## Installation
-        use `npm i` to install dependecnies
+        npm i 
 ## Usage
-        this app is used to generate a ReadMe file
+        run node.index, then answer all questino dsdfsf
 ## License
         MIT
 ## Contributing
-        they can contribute however possible
+        they can contribute however they would like.
 ## Tests
-        you can run project tests using jest
+        there are no tests for this project 
 ## Questions
-        if you have additonal questions, email me at  mikenavarreteemail. View more of my work on Github at https://github.com/mikenavarrete
-                
+        if you have additonal questions, email me at  mikenavarrete1998. View more of my work on Github at https://github.com/mikenavarrete
                 
